@@ -639,7 +639,7 @@
     .datepicker.datepicker-primary table tr td span.active:hover[disabled],
     .datepicker.datepicker-primary table tr td span.active.disabled[disabled],
     .datepicker.datepicker-primary table tr td span.active.disabled:hover[disabled] {
-      color: 9796e; }
+      color: #F77F00; }
 
 .datepicker-inline {
   width: 220px; }
